@@ -329,7 +329,7 @@ def draw_circles(window, points, radius, color):
     """
     # ------------------------------------------------------------------
     # DONE: 6. Implement and test this function.
-    #          Tests have been written for you (above).
+    #          Tests have been written for you (above). :)
     # ------------------------------------------------------------------
     for k in range(len(points)):
         circle = rg.Circle(points[k], radius)
